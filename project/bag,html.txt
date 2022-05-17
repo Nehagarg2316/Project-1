@@ -5,7 +5,7 @@
 <LINK REL="STYLESHEET" HREF="S3.CSS">
 <style>
 img{
-    border:1px solid black;
+    border:1px solid red;
 }
 .C{
    TEXT-DECORATION:NONE;
